@@ -32,7 +32,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/DiVERE.git
+git clone https://github.com/V7CN/DiVERE.git
 cd DiVERE
 
 # 创建虚拟环境（推荐）
@@ -241,7 +241,7 @@ Deep White Balance提供了基于深度学习的自动白平衡算法，我们�
 
 如果您发现任何问题或有功能建议，请通过以下方式联系：
 
-- 提交 [GitHub Issue](https://github.com/your-username/DiVERE/issues)
+- 提交 [GitHub Issue](https://github.com/V7CN/DiVERE/issues)
 - 发送邮件至：vanadis@yeah.net
 
 ## 🤝 贡献

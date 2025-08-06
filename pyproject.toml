@@ -6,8 +6,8 @@ authors = ["V7 <vanadis@yeah.net>"]
 readme = "README.md"
 packages = [{include = "divere"}]
 license = "MIT"
-homepage = "https://github.com/your-username/DiVERE"
-repository = "https://github.com/your-username/DiVERE"
+homepage = "https://github.com/V7CN/DiVERE"
+repository = "https://github.com/V7CN/DiVERE"
 keywords = ["film", "color-correction", "image-processing", "photography"]
 classifiers = [
     "Development Status :: 4 - Beta",
