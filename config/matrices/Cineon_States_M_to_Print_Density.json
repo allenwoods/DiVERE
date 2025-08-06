@@ -1,0 +1,23 @@
+{
+  "name": "Status M to Print Density",
+  "description": "由Status M densitometry映射到Print Density的矩阵",
+  "film_type": "color_negative",
+  "matrix_space": "density",
+  "matrix": [
+    [
+      1.0197,
+      0.0317,
+      0.0091
+    ],
+    [
+      -0.0052,
+      0.8933,
+      0.0521
+    ],
+    [
+      0.0131,
+      -0.0011,
+      0.9712
+    ]
+  ]
+}
